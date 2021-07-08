@@ -1,6 +1,7 @@
 ---
 title: Lisa X. Xu
 role: Professor
+avatar_filename: PEOPLE5.jpg
 social:
   - icon: envelope
     icon_pack: fas
@@ -10,7 +11,7 @@ organizations:
     url: ""
 email: lisaxu@sjtu.edu.cn
 superuser: false
-highlight_name: false
 user_groups:
   - Leadership
+highlight_name: false
 ---
