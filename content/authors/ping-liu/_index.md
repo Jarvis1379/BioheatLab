@@ -3,8 +3,6 @@ title: Ping Liu
 role: Professor
 avatar_filename: people8.jpg
 social:
-  - display:
-      header: true
     link: liuping@sjtu.edu.cn
     icon: envolope
     icon_pack: fas
