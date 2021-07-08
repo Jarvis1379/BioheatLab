@@ -1,6 +1,6 @@
 ---
-widget: pages
-widget_id: my-widget-123
+widget: blank
+widget_id: contact
 headless: true
 weight: 25
 title: Contact Us
