@@ -1,5 +1,5 @@
 ---
-title: 张爱丽
+title: Aili Zhang
 role: Professor
 avatar_filename: people6.jpg
 organizations:
@@ -7,7 +7,7 @@ organizations:
     url: ""
 superuser: false
 authors:
-  - 吳恩達
+  - Aili Zhang
 bio: ""
 interests: []
 social:
