@@ -4,7 +4,7 @@ role: Professor
 avatar_filename: people8.jpg
 social:
   - display:
-      header: false
+      header: true
     link: liuping@sjtu.edu.cn
     icon: envolope
     icon_pack: fas
