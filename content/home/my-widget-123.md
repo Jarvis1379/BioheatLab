@@ -1,5 +1,5 @@
 ---
-widget: hero
+widget: pages
 widget_id: my-widget-123
 headless: true
 weight: 25
@@ -15,4 +15,4 @@ design:
 
 **Telephone:** (86)62932304.
 
-**Email:** h
+**Email:** huangsx09@sjtu.edu.cn
