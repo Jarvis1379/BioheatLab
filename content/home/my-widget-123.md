@@ -2,7 +2,7 @@
 widget: pages
 widget_id: my-widget-123
 headless: true
-weight: 10
+weight: 30
 title: Contact Us
 active: true
 design:
