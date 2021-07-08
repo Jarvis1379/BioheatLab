@@ -1,7 +1,7 @@
 ---
 title: Lisa X. Xu
 role: Professor
-avatar_filename: PEOPLE5.jpg
+avatar_filename: avatar.jpg
 social:
   - icon: envelope
     icon_pack: fas
