@@ -9,7 +9,7 @@ weight: 10
 title: Bioheat Lab
 subtitle: ""
 design:
-  columns: "2"
+  columns: "1"
   background:
     image: img_4845.jpg
 hero_media: welcome.jpg
