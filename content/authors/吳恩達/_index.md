@@ -1,7 +1,7 @@
 ---
 title: Aili Zhang
 role: Professor
-avatar_filename: people6.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: Shanghai Jiao Tong University
     url: ""
