@@ -1,7 +1,7 @@
 ---
 title: Ping Liu
 role: Professor
-avatar_filename: people8.jpg
+avatar_filename: avatar.jpg
 organizations:
   - name: Shanghai Jiao Tong University
     url: ""
